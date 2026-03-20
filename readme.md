@@ -21,11 +21,9 @@ Notes on configuring Minty
 
 ```text
 # Install Discover (KDE Plasma)
-sudo apt install discover
-
+sudo apt install discover <== fails; forget about it
 # Install Ubuntu Software Center and GNOME Software (the same thing)
-sudo apt install gnome-software
-
+sudo apt install gnome-software <== niche; forget about it
 # Install Software Manager (Mint)
-sudo apt install mintinstall
+sudo apt install mintinstall  <== already installed
 ```
