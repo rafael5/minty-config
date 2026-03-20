@@ -1,5 +1,7 @@
 
-### Matrix Comparison: App Stores vs. Package Management Technologies
+
+
+### App Stores vs. Package Management Technologies
 
 | **Package Management** | **Discover** | **Ubuntu Software Center** | **GNOME Software** | **Software Manager (Mint)** |
 |------------------------|--------------|----------------------------|--------------------|----------------------------|
