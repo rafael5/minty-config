@@ -1,4 +1,6 @@
+# Minty Config
 
+Notes on configuring Minty
 
 
 ### App Stores vs. Package Management Technologies
